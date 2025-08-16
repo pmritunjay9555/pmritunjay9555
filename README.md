@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Mritunjay Pandey**, a professional **MERN Stack Developer** from **New Delhi, India**. I build **scalable full-stack web applications** and explore modern JavaScript technologies.
+I'm **Mritunjay Pandey**, a **MERN Stack Developer** from **New Delhi, India**. I build **scalable full-stack web applications** and explore modern JavaScript technologies.
 
 ### 🛠 Skills
 - **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, Tailwind  
