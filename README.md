@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**pmritunjay9555/pmritunjay9555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mritunjay Pandey**, a professional **MERN Stack Developer** from **New Delhi, India**. I build **scalable full-stack web applications** and explore modern JavaScript technologies.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, SQL  
+- **Tools:** Git, Postman  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projects
+- **AI-Powered SaaS App:** Removes image backgrounds, includes user authentication, credit system, and Razorpay integration.  
+- **Movies Web Application:** Built with React.js and Bootstrap, featuring dynamic genre filtering, search, sorting, pagination, and favorites management using localStorage.  
+- **Currently Working On:** Full-Stack Real-Time Chat App using MERN stack. Messages are delivered instantly without page reload.
+
+### 📫 Contact
+- Email: [pmritunjay9555@gmail.com](mailto:pmritunjay9555@gmail.com)  
+- LinkedIn: [pmritunjay9555](https://www.linkedin.com/in/pmritunjay9555)
