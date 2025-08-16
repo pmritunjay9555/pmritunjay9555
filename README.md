@@ -17,6 +17,13 @@ I'm **Mritunjay Pandey**, a **MERN Stack Developer** from **New Delhi, India**. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 </p>
 
+### My GitHub History!
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmritunjay9555&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmritunjay9555&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
 ### 💼 Projects
 - **AI-Powered SaaS App:** Removes image backgrounds, includes user authentication, credit system, and Razorpay integration.  
 - **Movies Web Application:** Built with React.js and Bootstrap, featuring dynamic genre filtering, search, sorting, pagination, and favorites management using localStorage.  
